@@ -3,16 +3,15 @@
 <br>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka\&color=FFB000\&width=900\&size=22\&center=true\&lines=Hello;My+Name+is+Felipe+Maia;I+am+from+Brazil;I'm+a+student+of+Data+Science;Be+welcome!" alt="Typing SVG"/>
-</div>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&pause=500&color=FFB000&center=true&vCenter=true&width=435&lines=Hello;My+Name+is+Felipe+Maia;I'm+18+years++old;I'm+student+of+Data+Science+from+EBAC;And+student+of+CC+UTFPR;Be+Welcome" alt="Typing SVG"/>
+
 
 <br>
 <br>
  
 <div align="center">
   <br>
-  <br>
-  <img align="center" alt="Top Language" src="(http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipemaia7\&theme=vision\_friendly\_dark)"/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipemaia7&theme=vision_friendly_dark">
 </div>
 
 <div align="center" style="display: inline\_block"><br>
